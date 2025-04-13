@@ -1,6 +1,10 @@
 # Parser
 <h2>Analisador léxico e parser LaTeX - Trabalho RA1 Construção de Interpretadores</h2>
 <br>
+Integrantes:<br>
+Félix Augustus Motelevicz<br>
+Gustavo Sampietro Rinaldi<br>
+<br>
 Como rodar:<br>
 Escreva no terminal -> "(compilador) (nome do arquivo) (nome do arquivo de teste)" <br>
 Exemplo: python3 RA1.py teste1.txt
