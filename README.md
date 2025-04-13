@@ -23,5 +23,6 @@ valido<br>
 teste3.txt - Saida esperada:<br>
 valido<br>
 valido<br>
-valido<br>
 inválido<br>
+valido<br>
+
