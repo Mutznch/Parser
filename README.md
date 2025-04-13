@@ -6,7 +6,7 @@ Félix Augustus Motelevicz<br>
 Gustavo Sampietro Rinaldi<br>
 <br>
 Como rodar:<br>
-Escreva no terminal -> "(compilador) (nome do arquivo) (nome do arquivo de teste)" <br>
+Escreva no terminal -> "(interpretador) (nome do arquivo) (nome do arquivo de teste)" <br>
 Exemplo: python3 RA1.py teste1.txt
 <br><br>
 Esse repositório contem 3 arquivos de teste<br>
