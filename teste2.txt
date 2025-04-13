@@ -1,0 +1,4 @@
+3
+( \vee ( \rightarrow 123 321 ) ( \leftrightarrow 1ab 42g ) )
+( \neg ( \wedge true false ) )
+( \vee ( \rightarrow ( \wedge false 8ye ) 321 ) ( \leftrightarrow 1ab ( \vee ( \neg false ) ( \rightarrow 2a true ) ) ) )
